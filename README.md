@@ -1,2 +1,5 @@
 # TipsTricks-Project-TrLights
-bla bla lba
+I dont understand shit about github, help
+help!!
+HELP!!1
+HEEEEEEEEEEEEELLLLLLLLLLPPPPPPPPPP!

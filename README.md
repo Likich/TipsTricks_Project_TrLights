@@ -6,3 +6,5 @@ Performance on test video: https://drive.google.com/file/d/1F-1yy4BSjNHT75andGyO
 Faster R-CNN on Lisa+Bosch datasets, 8k+8k photos, 3 epochs <br>
 https://drive.google.com/file/d/1RiIs1-aqPIEr4a_EP64SnuQvvmZNubeP/view?usp=sharing <br>
 Perfomance on test video: https://drive.google.com/file/d/12P5xmOzrwSSlhCHv7AHcfIB0U6CP6A11/view?usp=sharing <br>
+8 epochs with Bosch, Lisa and S2TLD datasets <br>
+https://drive.google.com/file/d/1zrfmFG5lz84of6Ul7e0USBSlIyzdm2ZX/view?usp=sharing

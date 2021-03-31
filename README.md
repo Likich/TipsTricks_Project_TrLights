@@ -18,6 +18,6 @@ https://drive.google.com/file/d/16lRq48L-5rzCxDWzMRgPQ5FR5rmwFm-4/view?usp=shari
 ## Some info
 
 We used Faster RCNN to find traffic lights on video. Training data consists of LISA, Bosch and S2TLD datasets. You can find links for this datasets in "useful links" file. <br><br>
-Our task was finding traffic lights only at daytime thus we didn't use night data. Although you can find some expirements with night data in "Detection/" directory. <br><br>
+Our task was to find traffic lights only at daytime thus we didn't use night data. Although you can find some expirements with night data in "Detection/" directory. <br><br>
 Faster RCNN gives very good results in finding traffi lights but one main downside is speed. So, since Faster RCNN is not fast enough to find boxes for each frame, we processed only each 4-th frame. Results may not be as accurate but the speed significantly increases. Also there's no much need in finding accurate position of a traffic lights (as we only care if we can move or not at the moment) and the difference in update time for boxes almost can not be caught by a human eye (0.012 sec instead of 0.003 sec for a 30 fps video) <br><br> 
 Every file with .py extension contains one cell from final .ipynb file.  You can find final .ipynb file in "/Detection" folder. ALso this folder contains some of our expirements.<br>

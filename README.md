@@ -27,7 +27,7 @@ The experiments included attempts to use the Yolo model and the transformer DETR
 Thus, the Faster R-CNN architecture with the FPN backbone was used in this paper. You can read more about its work in the following article: https://jonathan-hui.medium.com/understanding-feature-pyramid-networks-for-object-detection-fpn-45b227b9106c. For convenience we have created a brief and informal description of all neural networks available to us, this file was meant only for each other to facilitate understanding of the architectures: Architectures.pdf. <br><br>
 
 
-Every file with .py extension is in pep8 format and contains the main component from final .ipynb file. <br>
+Every file with .py extension is in pep8 format and contains the main component from final .ipynb file. <br><br>
 resize.py <br>
 configuration.py <br>
 transforms.py <br>

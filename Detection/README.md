@@ -17,7 +17,7 @@ https://drive.google.com/file/d/16lRq48L-5rzCxDWzMRgPQ5FR5rmwFm-4/view?usp=shari
 ## Some info
 
 I used Faster RCNN to find traffic lights on video. Training data consists of LISA, Bosch and S2TLD datasets. You can find links for this datasets in "useful links" file. The code with downloading all datasets is in Datasets.ipynb file. <br><br>
-You can find some expirements with night data in "Detection/" directory (Night model training.ipynb). <br><br>
+You can find some experiments with night data in "Detection/" directory (Night model training.ipynb). <br><br>
 Faster RCNN gives good results in finding traffic lights but one main downside is speed. So, since Faster RCNN is not fast enough to find boxes for each frame, each 4-th frame was processed. <br><br> 
 
 ## Experiments

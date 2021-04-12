@@ -1,7 +1,3 @@
-# TipsTricks-Project-TrLights
-<br>
-Here is contained some of our work progress. You can look through it if you want :) <br> <br>
-
 
 Article on databases: https://www.researchgate.net/publication/327808220_The_DriveU_Traffic_Light_Dataset_Introduction_and_Comparison_with_Existing_Datasets <br> <br>
 
